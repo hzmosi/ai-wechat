@@ -1,3 +1,5 @@
+
+## 鸿鹄RPA已改名 曲辕RPA
 ## AI双擎-微信智能客服
 内置[Deepseek](https://platform.deepseek.com/api_keys)官方API及[阿里百炼Deepseek API](https://bailian.console.aliyun.com/?tab=model#/api-key)，AI服务不可用时无缝自动切换，全天持续稳定运行！
 
@@ -5,15 +7,15 @@
 
 
 ## 使用方式
-### 安装鸿鹄RPA 
-下载并安装[鸿鹄RPA https://hhrpa.com/](https://hhrpa.com/)，支持windows7~11
+### 安装曲辕RPA
+下载并安装[曲辕RPA https://qyrpa.com/](https://qyrpa.com/)，支持windows7~11，Windows Server 2016+
 
 > 部分杀毒软件会误报，一律允许即可
 
-![安装鸿鹄RPA](/images/hh-download.png)
+![安装曲辕RPA](/images/hh-download.png)
 
-### 导入 微信客服.hha 文件
-![导入 微信客服.hha 文件](/images/import.png)
+### 导入 微信客服.qya 文件
+![导入 微信客服.qya 文件](/images/import.png)
 
 ### 打开编辑窗口
 ![打开编辑界面](/images/editor.png)
